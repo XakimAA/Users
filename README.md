@@ -1,6 +1,6 @@
 ## Тестовое задание в Xsolla ##
 Ссылки на развернутое приложение:
-- с ветки [master](https://xakimaa.github.io/users/)
+- с ветки [master](https://progerfour.github.io/users/)
 
 ### Задача: ###
 Разработать интерфейс управлениями пользователями.
