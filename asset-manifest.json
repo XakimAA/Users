@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/users/static/css/main.6b4ca49a.chunk.css",
-    "main.js": "/users/static/js/main.538c3198.chunk.js",
-    "main.js.map": "/users/static/js/main.538c3198.chunk.js.map",
+    "main.css": "/users/static/css/main.7d8f3a95.chunk.css",
+    "main.js": "/users/static/js/main.23816d30.chunk.js",
+    "main.js.map": "/users/static/js/main.23816d30.chunk.js.map",
     "runtime-main.js": "/users/static/js/runtime-main.8b58aa93.js",
     "runtime-main.js.map": "/users/static/js/runtime-main.8b58aa93.js.map",
-    "static/css/2.f73d3469.chunk.css": "/users/static/css/2.f73d3469.chunk.css",
-    "static/js/2.dd089016.chunk.js": "/users/static/js/2.dd089016.chunk.js",
-    "static/js/2.dd089016.chunk.js.map": "/users/static/js/2.dd089016.chunk.js.map",
+    "static/css/2.a9a1ae6e.chunk.css": "/users/static/css/2.a9a1ae6e.chunk.css",
+    "static/js/2.9e77f2b3.chunk.js": "/users/static/js/2.9e77f2b3.chunk.js",
+    "static/js/2.9e77f2b3.chunk.js.map": "/users/static/js/2.9e77f2b3.chunk.js.map",
     "index.html": "/users/index.html",
-    "precache-manifest.e7c785438a6a9a993998c7fd38383a61.js": "/users/precache-manifest.e7c785438a6a9a993998c7fd38383a61.js",
+    "precache-manifest.4f5c985702846ea3af250b016a626880.js": "/users/precache-manifest.4f5c985702846ea3af250b016a626880.js",
     "service-worker.js": "/users/service-worker.js",
-    "static/css/2.f73d3469.chunk.css.map": "/users/static/css/2.f73d3469.chunk.css.map",
-    "static/css/main.6b4ca49a.chunk.css.map": "/users/static/css/main.6b4ca49a.chunk.css.map",
-    "static/js/2.dd089016.chunk.js.LICENSE.txt": "/users/static/js/2.dd089016.chunk.js.LICENSE.txt",
+    "static/css/2.a9a1ae6e.chunk.css.map": "/users/static/css/2.a9a1ae6e.chunk.css.map",
+    "static/css/main.7d8f3a95.chunk.css.map": "/users/static/css/main.7d8f3a95.chunk.css.map",
+    "static/js/2.9e77f2b3.chunk.js.LICENSE.txt": "/users/static/js/2.9e77f2b3.chunk.js.LICENSE.txt",
     "static/media/style.css": "/users/static/media/xsolla-pattern.e822c496.svg",
     "static/media/times-circle-solid.bb7daa97.svg": "/users/static/media/times-circle-solid.bb7daa97.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8b58aa93.js",
-    "static/css/2.f73d3469.chunk.css",
-    "static/js/2.dd089016.chunk.js",
-    "static/css/main.6b4ca49a.chunk.css",
-    "static/js/main.538c3198.chunk.js"
+    "static/css/2.a9a1ae6e.chunk.css",
+    "static/js/2.9e77f2b3.chunk.js",
+    "static/css/main.7d8f3a95.chunk.css",
+    "static/js/main.23816d30.chunk.js"
   ]
 }
